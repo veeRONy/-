@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\bin\Release\net6.0-windows\p_ch_m_i.exe
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\bin\Release\net6.0-windows\p_ch_m_i.deps.json
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\bin\Release\net6.0-windows\p_ch_m_i.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\bin\Release\net6.0-windows\p_ch_m_i.dll
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\bin\Release\net6.0-windows\p_ch_m_i.pdb
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.dll
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\refint\p_ch_m_i.dll
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.pdb
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\ref\p_ch_m_i.dll
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.Form1.resources
+C:\Users\user\Desktop\Учеба\C# программы\p_ch_m_i\p_ch_m_i\obj\Release\net6.0-windows\p_ch_m_i.csproj.GenerateResource.cache
