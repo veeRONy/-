@@ -79,7 +79,7 @@ namespace p_ch_m_i
 
             btnDeleteProduct.Click += delegate
             {
-                var result = MessageBox.Show("Вы уверены, что хотите удалить товар?", "Warning",
+                var result = MessageBox.Show("Вы уверены, что хотите удалить информацию о товаре?", "Warning",
                    MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                 if (result == DialogResult.Yes)
                 {
@@ -90,7 +90,7 @@ namespace p_ch_m_i
 
             btnDeleteProvider.Click += delegate
             {
-                var result = MessageBox.Show("Вы уверены, что хотите удалить участника?", "Warning",
+                var result = MessageBox.Show("Вы уверены, что хотите удалить информацию о поставщике?", "Warning",
                    MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                 if (result == DialogResult.Yes)
                 {
